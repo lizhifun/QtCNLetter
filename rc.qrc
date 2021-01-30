@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>cnl.txt</file>
+    </qresource>
+</RCC>
